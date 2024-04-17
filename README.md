@@ -1,3 +1,3 @@
 # HashLife-Project
 
-HashLife algorithm for The Game of Life
+Coding the HashLife algorithm for The Game of Life.
